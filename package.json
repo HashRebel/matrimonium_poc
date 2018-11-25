@@ -14,10 +14,10 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0",
-    "web3": "^1.0.0-beta.34",
-    "web3-eth-abi": "^1.0.0-beta.34",
-    "websocket": "^1.0.26"
+    "nuxt": "^1.4.4",
+    "web3": "^1.0.0-beta2",
+    "web3-eth-abi": "^1.0.0-beta.36",
+    "websocket": "^1.0.28"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
